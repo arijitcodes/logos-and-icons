@@ -8,8 +8,12 @@ SVG logos and icons for brands, technologies, and tools — used in GitHub READM
 |--------|-------|------|---------|
 | amazon-dynamodb | [logo-light.svg](amazon-dynamodb/logo-light.svg) | [logo-dark.svg](amazon-dynamodb/logo-dark.svg) | [logo-default.svg](amazon-dynamodb/logo-default.svg) |
 | amazon-s3 | [logo-light.svg](amazon-s3/logo-light.svg) | [logo-dark.svg](amazon-s3/logo-dark.svg) | [logo-default.svg](amazon-s3/logo-default.svg) |
+| anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
 | aws | [logo-light.svg](aws/logo-light.svg) | [logo-dark.svg](aws/logo-dark.svg) | [logo-default.svg](aws/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
+| chatgpt | [logo-light.svg](chatgpt/logo-light.svg) | [logo-dark.svg](chatgpt/logo-dark.svg) | [logo-default.svg](chatgpt/logo-default.svg) |
+| claude | [logo-light.svg](claude/logo-light.svg) | [logo-dark.svg](claude/logo-dark.svg) | [logo-default.svg](claude/logo-default.svg) |
+| claude-code | [logo-light.svg](claude-code/logo-light.svg) | [logo-dark.svg](claude-code/logo-dark.svg) | [logo-default.svg](claude-code/logo-default.svg) |
 | c-sharp | [logo-light.svg](c-sharp/logo-light.svg) | [logo-dark.svg](c-sharp/logo-dark.svg) | [logo-default.svg](c-sharp/logo-default.svg) |
 | codex | [logo-light.svg](codex/logo-light.svg) | [logo-dark.svg](codex/logo-dark.svg) | [logo-default.svg](codex/logo-default.svg) |
 | css3 | [logo-light.svg](css3/logo-light.svg) | [logo-dark.svg](css3/logo-dark.svg) | [logo-default.svg](css3/logo-default.svg) |
@@ -22,6 +26,7 @@ SVG logos and icons for brands, technologies, and tools — used in GitHub READM
 | github-copilot | [logo-light.svg](github-copilot/logo-light.svg) | [logo-dark.svg](github-copilot/logo-dark.svg) | [logo-default.svg](github-copilot/logo-default.svg) |
 | gmail | [logo-light.svg](gmail/logo-light.svg) | [logo-dark.svg](gmail/logo-dark.svg) | [logo-default.svg](gmail/logo-default.svg) |
 | html5 | [logo-light.svg](html5/logo-light.svg) | [logo-dark.svg](html5/logo-dark.svg) | [logo-default.svg](html5/logo-default.svg) |
+| huggingface | [logo-light.svg](huggingface/logo-light.svg) | [logo-dark.svg](huggingface/logo-dark.svg) | [logo-default.svg](huggingface/logo-default.svg) |
 | instagram | [logo-light.svg](instagram/logo-light.svg) | [logo-dark.svg](instagram/logo-dark.svg) | [logo-default.svg](instagram/logo-default.svg) |
 | javascript | [logo-light.svg](javascript/logo-light.svg) | [logo-dark.svg](javascript/logo-dark.svg) | [logo-default.svg](javascript/logo-default.svg) |
 | jest | [logo-light.svg](jest/logo-light.svg) | [logo-dark.svg](jest/logo-dark.svg) | [logo-default.svg](jest/logo-default.svg) |
@@ -35,11 +40,14 @@ SVG logos and icons for brands, technologies, and tools — used in GitHub READM
 | nginx-proxy-manager | [logo-light.svg](nginx-proxy-manager/logo-light.svg) | [logo-dark.svg](nginx-proxy-manager/logo-dark.svg) | [logo-default.svg](nginx-proxy-manager/logo-default.svg) |
 | nodejs | [logo-light.svg](nodejs/logo-light.svg) | [logo-dark.svg](nodejs/logo-dark.svg) | [logo-default.svg](nodejs/logo-default.svg) |
 | npm | [logo-light.svg](npm/logo-light.svg) | [logo-dark.svg](npm/logo-dark.svg) | [logo-default.svg](npm/logo-default.svg) |
+| openai | [logo-light.svg](openai/logo-light.svg) | [logo-dark.svg](openai/logo-dark.svg) | [logo-default.svg](openai/logo-default.svg) |
 | opencode | [logo-light.svg](opencode/logo-light.svg) | [logo-dark.svg](opencode/logo-dark.svg) | [logo-default.svg](opencode/logo-default.svg) |
 | pi | [logo-light.svg](pi/logo-light.svg) | [logo-dark.svg](pi/logo-dark.svg) | — |
+| podman | [logo-light.svg](podman/logo-light.svg) | [logo-dark.svg](podman/logo-dark.svg) | [logo-default.svg](podman/logo-default.svg) |
 | pm2 | [logo-light.svg](pm2/logo-light.svg) | [logo-dark.svg](pm2/logo-dark.svg) | [logo-default.svg](pm2/logo-default.svg) |
 | portainer | [logo-light.svg](portainer/logo-light.svg) | [logo-dark.svg](portainer/logo-dark.svg) | [logo-default.svg](portainer/logo-default.svg) |
 | postman | [logo-light.svg](postman/logo-light.svg) | [logo-dark.svg](postman/logo-dark.svg) | [logo-default.svg](postman/logo-default.svg) |
+| qwen | [logo-light.svg](qwen/logo-light.svg) | [logo-dark.svg](qwen/logo-dark.svg) | [logo-default.svg](qwen/logo-default.svg) |
 | react | [logo-light.svg](react/logo-light.svg) | [logo-dark.svg](react/logo-dark.svg) | [logo-default.svg](react/logo-default.svg) |
 | redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
 | socket-io | [logo-light.svg](socket-io/logo-light.svg) | [logo-dark.svg](socket-io/logo-dark.svg) | [logo-default.svg](socket-io/logo-default.svg) |

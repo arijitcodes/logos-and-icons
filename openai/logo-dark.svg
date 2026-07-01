@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <path id="a" d="M11.044 2.984c-1.978 0-3.734 1.271-4.347 3.149L6.49 7.426v4.274c0 .214.11.404.294.514l3.442 1.983V8.325h.001v-.279l3.279-1.9c.337-.195.704-.328 1.083-.398l.66-1.139C13.59 3.531 12.35 2.983 11.044 2.984zm0 1.174-.006.006c.796 0 1.56.275 2.174.784-.025.012-.074.043-.11.061l-3.273 1.9c-.184.104-.294.3-.294.514v4.857l-1.55-.893V7.547c-.001-1.868 1.515-3.385 3.386-3.386z"/>
+  </defs>
+  <use href="#a" fill="#fff"/>
+  <use href="#a" fill="#fff" transform="rotate(60 12 12)"/>
+  <use href="#a" fill="#fff" transform="rotate(120 12 12)"/>
+  <use href="#a" fill="#fff" transform="rotate(180 12 12)"/>
+  <use href="#a" fill="#fff" transform="rotate(240 12 12)"/>
+  <use href="#a" fill="#fff" transform="rotate(300 12 12)"/>
+</svg>
