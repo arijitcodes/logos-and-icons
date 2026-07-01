@@ -6,7 +6,48 @@ SVG logos and icons for brands, technologies, and tools — used in GitHub READM
 
 | Entity | Light | Dark | Default |
 |--------|-------|------|---------|
+| amazon-dynamodb | [logo-light.svg](amazon-dynamodb/logo-light.svg) | [logo-dark.svg](amazon-dynamodb/logo-dark.svg) | [logo-default.svg](amazon-dynamodb/logo-default.svg) |
+| amazon-s3 | [logo-light.svg](amazon-s3/logo-light.svg) | [logo-dark.svg](amazon-s3/logo-dark.svg) | [logo-default.svg](amazon-s3/logo-default.svg) |
+| aws | [logo-light.svg](aws/logo-light.svg) | [logo-dark.svg](aws/logo-dark.svg) | [logo-default.svg](aws/logo-default.svg) |
+| bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
+| c-sharp | [logo-light.svg](c-sharp/logo-light.svg) | [logo-dark.svg](c-sharp/logo-dark.svg) | [logo-default.svg](c-sharp/logo-default.svg) |
+| codex | [logo-light.svg](codex/logo-light.svg) | [logo-dark.svg](codex/logo-dark.svg) | [logo-default.svg](codex/logo-default.svg) |
+| css3 | [logo-light.svg](css3/logo-light.svg) | [logo-dark.svg](css3/logo-dark.svg) | [logo-default.svg](css3/logo-default.svg) |
+| digitalocean | [logo-light.svg](digitalocean/logo-light.svg) | [logo-dark.svg](digitalocean/logo-dark.svg) | [logo-default.svg](digitalocean/logo-default.svg) |
+| docker | [logo-light.svg](docker/logo-light.svg) | [logo-dark.svg](docker/logo-dark.svg) | [logo-default.svg](docker/logo-default.svg) |
+| dotnet | [logo-light.svg](dotnet/logo-light.svg) | [logo-dark.svg](dotnet/logo-dark.svg) | [logo-default.svg](dotnet/logo-default.svg) |
+| express | [logo-light.svg](express/logo-light.svg) | [logo-dark.svg](express/logo-dark.svg) | [logo-default.svg](express/logo-default.svg) |
+| git | [logo-light.svg](git/logo-light.svg) | [logo-dark.svg](git/logo-dark.svg) | [logo-default.svg](git/logo-default.svg) |
+| github | [logo-light.svg](github/logo-light.svg) | [logo-dark.svg](github/logo-dark.svg) | [logo-default.svg](github/logo-default.svg) |
+| github-copilot | [logo-light.svg](github-copilot/logo-light.svg) | [logo-dark.svg](github-copilot/logo-dark.svg) | [logo-default.svg](github-copilot/logo-default.svg) |
+| gmail | [logo-light.svg](gmail/logo-light.svg) | [logo-dark.svg](gmail/logo-dark.svg) | [logo-default.svg](gmail/logo-default.svg) |
+| html5 | [logo-light.svg](html5/logo-light.svg) | [logo-dark.svg](html5/logo-dark.svg) | [logo-default.svg](html5/logo-default.svg) |
+| instagram | [logo-light.svg](instagram/logo-light.svg) | [logo-dark.svg](instagram/logo-dark.svg) | [logo-default.svg](instagram/logo-default.svg) |
+| javascript | [logo-light.svg](javascript/logo-light.svg) | [logo-dark.svg](javascript/logo-dark.svg) | [logo-default.svg](javascript/logo-default.svg) |
+| jest | [logo-light.svg](jest/logo-light.svg) | [logo-dark.svg](jest/logo-dark.svg) | [logo-default.svg](jest/logo-default.svg) |
+| jwt | [logo-light.svg](jwt/logo-light.svg) | [logo-dark.svg](jwt/logo-dark.svg) | [logo-default.svg](jwt/logo-default.svg) |
+| linkedin | [logo-light.svg](linkedin/logo-light.svg) | [logo-dark.svg](linkedin/logo-dark.svg) | [logo-default.svg](linkedin/logo-default.svg) |
+| linux | [logo-light.svg](linux/logo-light.svg) | [logo-dark.svg](linux/logo-dark.svg) | [logo-default.svg](linux/logo-default.svg) |
+| model-context-protocol | [logo-light.svg](model-context-protocol/logo-light.svg) | [logo-dark.svg](model-context-protocol/logo-dark.svg) | [logo-default.svg](model-context-protocol/logo-default.svg) |
+| mongodb | [logo-light.svg](mongodb/logo-light.svg) | [logo-dark.svg](mongodb/logo-dark.svg) | [logo-default.svg](mongodb/logo-default.svg) |
+| mysql | [logo-light.svg](mysql/logo-light.svg) | [logo-dark.svg](mysql/logo-dark.svg) | [logo-default.svg](mysql/logo-default.svg) |
+| nginx | [logo-light.svg](nginx/logo-light.svg) | [logo-dark.svg](nginx/logo-dark.svg) | [logo-default.svg](nginx/logo-default.svg) |
+| nginx-proxy-manager | [logo-light.svg](nginx-proxy-manager/logo-light.svg) | [logo-dark.svg](nginx-proxy-manager/logo-dark.svg) | [logo-default.svg](nginx-proxy-manager/logo-default.svg) |
+| nodejs | [logo-light.svg](nodejs/logo-light.svg) | [logo-dark.svg](nodejs/logo-dark.svg) | [logo-default.svg](nodejs/logo-default.svg) |
+| npm | [logo-light.svg](npm/logo-light.svg) | [logo-dark.svg](npm/logo-dark.svg) | [logo-default.svg](npm/logo-default.svg) |
+| opencode | [logo-light.svg](opencode/logo-light.svg) | [logo-dark.svg](opencode/logo-dark.svg) | [logo-default.svg](opencode/logo-default.svg) |
 | pi | [logo-light.svg](pi/logo-light.svg) | [logo-dark.svg](pi/logo-dark.svg) | — |
+| pm2 | [logo-light.svg](pm2/logo-light.svg) | [logo-dark.svg](pm2/logo-dark.svg) | [logo-default.svg](pm2/logo-default.svg) |
+| portainer | [logo-light.svg](portainer/logo-light.svg) | [logo-dark.svg](portainer/logo-dark.svg) | [logo-default.svg](portainer/logo-default.svg) |
+| postman | [logo-light.svg](postman/logo-light.svg) | [logo-dark.svg](postman/logo-dark.svg) | [logo-default.svg](postman/logo-default.svg) |
+| react | [logo-light.svg](react/logo-light.svg) | [logo-dark.svg](react/logo-dark.svg) | [logo-default.svg](react/logo-default.svg) |
+| redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
+| socket-io | [logo-light.svg](socket-io/logo-light.svg) | [logo-dark.svg](socket-io/logo-dark.svg) | [logo-default.svg](socket-io/logo-default.svg) |
+| typescript | [logo-light.svg](typescript/logo-light.svg) | [logo-dark.svg](typescript/logo-dark.svg) | [logo-default.svg](typescript/logo-default.svg) |
+| ubuntu | [logo-light.svg](ubuntu/logo-light.svg) | [logo-dark.svg](ubuntu/logo-dark.svg) | [logo-default.svg](ubuntu/logo-default.svg) |
+| visual-studio | [logo-light.svg](visual-studio/logo-light.svg) | [logo-dark.svg](visual-studio/logo-dark.svg) | [logo-default.svg](visual-studio/logo-default.svg) |
+| visual-studio-code | [logo-light.svg](visual-studio-code/logo-light.svg) | [logo-dark.svg](visual-studio-code/logo-dark.svg) | [logo-default.svg](visual-studio-code/logo-default.svg) |
+| webstorm | [logo-light.svg](webstorm/logo-light.svg) | [logo-dark.svg](webstorm/logo-dark.svg) | [logo-default.svg](webstorm/logo-default.svg) |
 
 ## Usage
 
