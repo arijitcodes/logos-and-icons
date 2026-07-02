@@ -14,6 +14,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | amazon-web-services | [logo-light.svg](amazon-web-services/logo-light.svg) | [logo-dark.svg](amazon-web-services/logo-dark.svg) | [logo-default.svg](amazon-web-services/logo-default.svg) |
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
 | apple | [logo-light.svg](apple/logo-light.svg) | [logo-dark.svg](apple/logo-dark.svg) | [logo-default.svg](apple/logo-default.svg) |
+| azure | [logo-light.svg](azure/logo-light.svg) | [logo-dark.svg](azure/logo-dark.svg) | [logo-default.svg](azure/logo-default.svg) |
 | bash | [logo-light.svg](bash/logo-light.svg) | [logo-dark.svg](bash/logo-dark.svg) | [logo-default.svg](bash/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
 | brave | [logo-light.svg](brave/logo-light.svg) | [logo-dark.svg](brave/logo-dark.svg) | [logo-default.svg](brave/logo-default.svg) |
@@ -77,6 +78,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | semantic-release | [logo-light.svg](semantic-release/logo-light.svg) | [logo-dark.svg](semantic-release/logo-dark.svg) | [logo-default.svg](semantic-release/logo-default.svg) |
 | sequelize | [logo-light.svg](sequelize/logo-light.svg) | [logo-dark.svg](sequelize/logo-dark.svg) | [logo-default.svg](sequelize/logo-default.svg) |
 | slack | [logo-light.svg](slack/logo-light.svg) | [logo-dark.svg](slack/logo-dark.svg) | [logo-default.svg](slack/logo-default.svg) |
+| tailwindcss | [logo-light.svg](tailwindcss/logo-light.svg) | [logo-dark.svg](tailwindcss/logo-dark.svg) | [logo-default.svg](tailwindcss/logo-default.svg) |
 | tmux | [logo-light.svg](tmux/logo-light.svg) | [logo-dark.svg](tmux/logo-dark.svg) | [logo-default.svg](tmux/logo-default.svg) |
 | typescript | [logo-light.svg](typescript/logo-light.svg) | [logo-dark.svg](typescript/logo-dark.svg) | [logo-default.svg](typescript/logo-default.svg) |
 | ubuntu | [logo-light.svg](ubuntu/logo-light.svg) | [logo-dark.svg](ubuntu/logo-dark.svg) | [logo-default.svg](ubuntu/logo-default.svg) |
