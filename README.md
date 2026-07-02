@@ -13,11 +13,14 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
 | aws | [logo-light.svg](aws/logo-light.svg) | [logo-dark.svg](aws/logo-dark.svg) | [logo-default.svg](aws/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
+| bun | [logo-light.svg](bun/logo-light.svg) | [logo-dark.svg](bun/logo-dark.svg) | [logo-default.svg](bun/logo-default.svg) |
 | chatgpt | [logo-light.svg](chatgpt/logo-light.svg) | [logo-dark.svg](chatgpt/logo-dark.svg) | [logo-default.svg](chatgpt/logo-default.svg) |
 | claude | [logo-light.svg](claude/logo-light.svg) | [logo-dark.svg](claude/logo-dark.svg) | [logo-default.svg](claude/logo-default.svg) |
 | claude-code | [logo-light.svg](claude-code/logo-light.svg) | [logo-dark.svg](claude-code/logo-dark.svg) | [logo-default.svg](claude-code/logo-default.svg) |
 | c-sharp | [logo-light.svg](c-sharp/logo-light.svg) | [logo-dark.svg](c-sharp/logo-dark.svg) | [logo-default.svg](c-sharp/logo-default.svg) |
 | codex | [logo-light.svg](codex/logo-light.svg) | [logo-dark.svg](codex/logo-dark.svg) | [logo-default.svg](codex/logo-default.svg) |
+| commitizen | [logo-light.svg](commitizen/logo-light.svg) | [logo-dark.svg](commitizen/logo-dark.svg) | [logo-default.svg](commitizen/logo-default.svg) |
+| conventional-commits | [logo-light.svg](conventional-commits/logo-light.svg) | [logo-dark.svg](conventional-commits/logo-dark.svg) | [logo-default.svg](conventional-commits/logo-default.svg) |
 | css3 | [logo-light.svg](css3/logo-light.svg) | [logo-dark.svg](css3/logo-dark.svg) | [logo-default.svg](css3/logo-default.svg) |
 | digitalocean | [logo-light.svg](digitalocean/logo-light.svg) | [logo-dark.svg](digitalocean/logo-dark.svg) | [logo-default.svg](digitalocean/logo-default.svg) |
 | docker | [logo-light.svg](docker/logo-light.svg) | [logo-dark.svg](docker/logo-dark.svg) | [logo-default.svg](docker/logo-default.svg) |
@@ -42,6 +45,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | nginx-proxy-manager | [logo-light.svg](nginx-proxy-manager/logo-light.svg) | [logo-dark.svg](nginx-proxy-manager/logo-dark.svg) | [logo-default.svg](nginx-proxy-manager/logo-default.svg) |
 | nodejs | [logo-light.svg](nodejs/logo-light.svg) | [logo-dark.svg](nodejs/logo-dark.svg) | [logo-default.svg](nodejs/logo-default.svg) |
 | npm | [logo-light.svg](npm/logo-light.svg) | [logo-dark.svg](npm/logo-dark.svg) | [logo-default.svg](npm/logo-default.svg) |
+| nvm | [logo-light.svg](nvm/logo-light.svg) | [logo-dark.svg](nvm/logo-dark.svg) | [logo-default.svg](nvm/logo-default.svg) |
 | openai | [logo-light.svg](openai/logo-light.svg) | [logo-dark.svg](openai/logo-dark.svg) | [logo-default.svg](openai/logo-default.svg) |
 | opencode | [logo-light.svg](opencode/logo-light.svg) | [logo-dark.svg](opencode/logo-dark.svg) | [logo-default.svg](opencode/logo-default.svg) |
 | pi | [logo-light.svg](pi/logo-light.svg) | [logo-dark.svg](pi/logo-dark.svg) | — |
@@ -53,6 +57,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | react | [logo-light.svg](react/logo-light.svg) | [logo-dark.svg](react/logo-dark.svg) | [logo-default.svg](react/logo-default.svg) |
 | redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
 | socket-io | [logo-light.svg](socket-io/logo-light.svg) | [logo-dark.svg](socket-io/logo-dark.svg) | [logo-default.svg](socket-io/logo-default.svg) |
+| semantic-release | [logo-light.svg](semantic-release/logo-light.svg) | [logo-dark.svg](semantic-release/logo-dark.svg) | [logo-default.svg](semantic-release/logo-default.svg) |
 | typescript | [logo-light.svg](typescript/logo-light.svg) | [logo-dark.svg](typescript/logo-dark.svg) | [logo-default.svg](typescript/logo-default.svg) |
 | ubuntu | [logo-light.svg](ubuntu/logo-light.svg) | [logo-dark.svg](ubuntu/logo-dark.svg) | [logo-default.svg](ubuntu/logo-default.svg) |
 | visual-studio | [logo-light.svg](visual-studio/logo-light.svg) | [logo-dark.svg](visual-studio/logo-dark.svg) | [logo-default.svg](visual-studio/logo-default.svg) |
