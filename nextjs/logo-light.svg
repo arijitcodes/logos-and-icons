@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <circle id="c" cx="128" cy="128" r="128"/>
+    <path id="n-path" d="M212.634 224.028L98.335 76.8H76.8v102.357h17.228V98.68L199.11 234.446a128 128 0 0 0 13.524-10.418"/>
+    <path id="n-bar" d="M163.556 76.8h17.067v102.4h-17.067z"/>
+  </defs>
+  <mask id="m">
+    <use href="#c" fill="#fff"/>
+    <use href="#n-path" fill="#000"/>
+    <use href="#n-bar" fill="#000"/>
+  </mask>
+  <use href="#c" fill="#000" mask="url(#m)"/>
+</svg>
