@@ -13,6 +13,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | amazon-s3 | [logo-light.svg](amazon-s3/logo-light.svg) | [logo-dark.svg](amazon-s3/logo-dark.svg) | [logo-default.svg](amazon-s3/logo-default.svg) |
 | amazon-web-services | [logo-light.svg](amazon-web-services/logo-light.svg) | [logo-dark.svg](amazon-web-services/logo-dark.svg) | [logo-default.svg](amazon-web-services/logo-default.svg) |
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
+| apache-kafka | [logo-light.svg](apache-kafka/logo-light.svg) | [logo-dark.svg](apache-kafka/logo-dark.svg) | [logo-default.svg](apache-kafka/logo-default.svg) |
 | apple | [logo-light.svg](apple/logo-light.svg) | [logo-dark.svg](apple/logo-dark.svg) | [logo-default.svg](apple/logo-default.svg) |
 | archlinux | [logo-light.svg](archlinux/logo-light.svg) | [logo-dark.svg](archlinux/logo-dark.svg) | [logo-default.svg](archlinux/logo-default.svg) |
 | azure | [logo-light.svg](azure/logo-light.svg) | [logo-dark.svg](azure/logo-dark.svg) | [logo-default.svg](azure/logo-default.svg) |
@@ -74,6 +75,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | postman | [logo-light.svg](postman/logo-light.svg) | [logo-dark.svg](postman/logo-dark.svg) | [logo-default.svg](postman/logo-default.svg) |
 | python | [logo-light.svg](python/logo-light.svg) | [logo-dark.svg](python/logo-dark.svg) | [logo-default.svg](python/logo-default.svg) |
 | qwen | [logo-light.svg](qwen/logo-light.svg) | [logo-dark.svg](qwen/logo-dark.svg) | [logo-default.svg](qwen/logo-default.svg) |
+| rabbitmq | [logo-light.svg](rabbitmq/logo-light.svg) | [logo-dark.svg](rabbitmq/logo-dark.svg) | [logo-default.svg](rabbitmq/logo-default.svg) |
 | react | [logo-light.svg](react/logo-light.svg) | [logo-dark.svg](react/logo-dark.svg) | [logo-default.svg](react/logo-default.svg) |
 | redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
 | rust | [logo-light.svg](rust/logo-light.svg) | [logo-dark.svg](rust/logo-dark.svg) | [logo-default.svg](rust/logo-default.svg) |
