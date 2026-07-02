@@ -2,6 +2,8 @@
 
 SVG logos and icons for brands, technologies, and tools — used in GitHub README and portfolio.
 
+Each entity lives in its own directory and ships `logo-light.svg` (black fill), `logo-dark.svg` (white fill), and `logo-default.svg` (brand colors).
+
 ## Assets
 
 | Entity | Light | Dark | Default |
