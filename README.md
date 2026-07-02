@@ -41,6 +41,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | linux | [logo-light.svg](linux/logo-light.svg) | [logo-dark.svg](linux/logo-dark.svg) | [logo-default.svg](linux/logo-default.svg) |
 | model-context-protocol | [logo-light.svg](model-context-protocol/logo-light.svg) | [logo-dark.svg](model-context-protocol/logo-dark.svg) | [logo-default.svg](model-context-protocol/logo-default.svg) |
 | mongodb | [logo-light.svg](mongodb/logo-light.svg) | [logo-dark.svg](mongodb/logo-dark.svg) | [logo-default.svg](mongodb/logo-default.svg) |
+| mongoose | [logo-light.svg](mongoose/logo-light.svg) | [logo-dark.svg](mongoose/logo-dark.svg) | [logo-default.svg](mongoose/logo-default.svg) |
 | mysql | [logo-light.svg](mysql/logo-light.svg) | [logo-dark.svg](mysql/logo-dark.svg) | [logo-default.svg](mysql/logo-default.svg) |
 | nginx | [logo-light.svg](nginx/logo-light.svg) | [logo-dark.svg](nginx/logo-dark.svg) | [logo-default.svg](nginx/logo-default.svg) |
 | nginx-proxy-manager | [logo-light.svg](nginx-proxy-manager/logo-light.svg) | [logo-dark.svg](nginx-proxy-manager/logo-dark.svg) | [logo-default.svg](nginx-proxy-manager/logo-default.svg) |
