@@ -14,11 +14,13 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | amazon-web-services | [logo-light.svg](amazon-web-services/logo-light.svg) | [logo-dark.svg](amazon-web-services/logo-dark.svg) | [logo-default.svg](amazon-web-services/logo-default.svg) |
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
 | apple | [logo-light.svg](apple/logo-light.svg) | [logo-dark.svg](apple/logo-dark.svg) | [logo-default.svg](apple/logo-default.svg) |
+| archlinux | [logo-light.svg](archlinux/logo-light.svg) | [logo-dark.svg](archlinux/logo-dark.svg) | [logo-default.svg](archlinux/logo-default.svg) |
 | azure | [logo-light.svg](azure/logo-light.svg) | [logo-dark.svg](azure/logo-dark.svg) | [logo-default.svg](azure/logo-default.svg) |
 | bash | [logo-light.svg](bash/logo-light.svg) | [logo-dark.svg](bash/logo-dark.svg) | [logo-default.svg](bash/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
 | brave | [logo-light.svg](brave/logo-light.svg) | [logo-dark.svg](brave/logo-dark.svg) | [logo-default.svg](brave/logo-default.svg) |
 | bun | [logo-light.svg](bun/logo-light.svg) | [logo-dark.svg](bun/logo-dark.svg) | [logo-default.svg](bun/logo-default.svg) |
+| cachyos | [logo-light.svg](cachyos/logo-light.svg) | [logo-dark.svg](cachyos/logo-dark.svg) | [logo-default.svg](cachyos/logo-default.svg) |
 | chatgpt | [logo-light.svg](chatgpt/logo-light.svg) | [logo-dark.svg](chatgpt/logo-dark.svg) | [logo-default.svg](chatgpt/logo-default.svg) |
 | chrome | [logo-light.svg](chrome/logo-light.svg) | [logo-dark.svg](chrome/logo-dark.svg) | [logo-default.svg](chrome/logo-default.svg) |
 | claude | [logo-light.svg](claude/logo-light.svg) | [logo-dark.svg](claude/logo-dark.svg) | [logo-default.svg](claude/logo-default.svg) |
@@ -51,6 +53,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | linux | [logo-light.svg](linux/logo-light.svg) | [logo-dark.svg](linux/logo-dark.svg) | [logo-default.svg](linux/logo-default.svg) |
 | meta | [logo-light.svg](meta/logo-light.svg) | [logo-dark.svg](meta/logo-dark.svg) | [logo-default.svg](meta/logo-default.svg) |
 | microsoft | [logo-light.svg](microsoft/logo-light.svg) | [logo-dark.svg](microsoft/logo-dark.svg) | [logo-default.svg](microsoft/logo-default.svg) |
+| microsoft-windows | [logo-light.svg](microsoft-windows/logo-light.svg) | [logo-dark.svg](microsoft-windows/logo-dark.svg) | [logo-default.svg](microsoft-windows/logo-default.svg) |
 | model-context-protocol | [logo-light.svg](model-context-protocol/logo-light.svg) | [logo-dark.svg](model-context-protocol/logo-dark.svg) | [logo-default.svg](model-context-protocol/logo-default.svg) |
 | mongodb | [logo-light.svg](mongodb/logo-light.svg) | [logo-dark.svg](mongodb/logo-dark.svg) | [logo-default.svg](mongodb/logo-default.svg) |
 | mongoose | [logo-light.svg](mongoose/logo-light.svg) | [logo-dark.svg](mongoose/logo-dark.svg) | [logo-default.svg](mongoose/logo-default.svg) |
