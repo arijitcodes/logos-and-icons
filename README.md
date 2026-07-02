@@ -60,6 +60,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
 | socket-io | [logo-light.svg](socket-io/logo-light.svg) | [logo-dark.svg](socket-io/logo-dark.svg) | [logo-default.svg](socket-io/logo-default.svg) |
 | semantic-release | [logo-light.svg](semantic-release/logo-light.svg) | [logo-dark.svg](semantic-release/logo-dark.svg) | [logo-default.svg](semantic-release/logo-default.svg) |
+| sequelize | [logo-light.svg](sequelize/logo-light.svg) | [logo-dark.svg](sequelize/logo-dark.svg) | [logo-default.svg](sequelize/logo-default.svg) |
 | tmux | [logo-light.svg](tmux/logo-light.svg) | [logo-dark.svg](tmux/logo-dark.svg) | [logo-default.svg](tmux/logo-default.svg) |
 | typescript | [logo-light.svg](typescript/logo-light.svg) | [logo-dark.svg](typescript/logo-dark.svg) | [logo-default.svg](typescript/logo-default.svg) |
 | ubuntu | [logo-light.svg](ubuntu/logo-light.svg) | [logo-dark.svg](ubuntu/logo-dark.svg) | [logo-default.svg](ubuntu/logo-default.svg) |
