@@ -11,7 +11,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | amazon-dynamodb | [logo-light.svg](amazon-dynamodb/logo-light.svg) | [logo-dark.svg](amazon-dynamodb/logo-dark.svg) | [logo-default.svg](amazon-dynamodb/logo-default.svg) |
 | amazon-s3 | [logo-light.svg](amazon-s3/logo-light.svg) | [logo-dark.svg](amazon-s3/logo-dark.svg) | [logo-default.svg](amazon-s3/logo-default.svg) |
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
-| aws | [logo-light.svg](aws/logo-light.svg) | [logo-dark.svg](aws/logo-dark.svg) | [logo-default.svg](aws/logo-default.svg) |
+| aws-ec2 | [logo-light.svg](aws-ec2/logo-light.svg) | [logo-dark.svg](aws-ec2/logo-dark.svg) | [logo-default.svg](aws-ec2/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
 | bun | [logo-light.svg](bun/logo-light.svg) | [logo-dark.svg](bun/logo-dark.svg) | [logo-default.svg](bun/logo-default.svg) |
 | chatgpt | [logo-light.svg](chatgpt/logo-light.svg) | [logo-dark.svg](chatgpt/logo-dark.svg) | [logo-default.svg](chatgpt/logo-default.svg) |
