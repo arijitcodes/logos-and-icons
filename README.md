@@ -78,6 +78,14 @@ https://raw.githubusercontent.com/arijit/logos-and-icons/main/<entity>/logo-dark
 https://raw.githubusercontent.com/arijit/logos-and-icons/main/<entity>/logo-default.svg
 ```
 
+## Sources
+
+Logos in this repository are sourced from the following websites:
+
+- [thesvg.org](https://thesvg.org) — clean brand SVGs with mono and color variants
+- [VectorLogo.Zone](https://www.vectorlogo.zone) — brand logo collection in SVG format
+- [Simple Icons](https://simpleicons.org) — free SVG icons for popular brands
+
 ---
 
 _Read [AGENTS.md](AGENTS.md) for contribution conventions._
