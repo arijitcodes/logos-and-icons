@@ -69,6 +69,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | jenkins | [logo-light.svg](jenkins/logo-light.svg) | [logo-dark.svg](jenkins/logo-dark.svg) | [logo-default.svg](jenkins/logo-default.svg) |
 | jest | [logo-light.svg](jest/logo-light.svg) | [logo-dark.svg](jest/logo-dark.svg) | [logo-default.svg](jest/logo-default.svg) |
 | jwt | [logo-light.svg](jwt/logo-light.svg) | [logo-dark.svg](jwt/logo-dark.svg) | [logo-default.svg](jwt/logo-default.svg) |
+| kimi | [logo-light.svg](kimi/logo-light.svg) | [logo-dark.svg](kimi/logo-dark.svg) | [logo-default.svg](kimi/logo-default.svg) |
 | kotlin | [logo-light.svg](kotlin/logo-light.svg) | [logo-dark.svg](kotlin/logo-dark.svg) | [logo-default.svg](kotlin/logo-default.svg) |
 | kubernetes | [logo-light.svg](kubernetes/logo-light.svg) | [logo-dark.svg](kubernetes/logo-dark.svg) | [logo-default.svg](kubernetes/logo-default.svg) |
 | linkedin | [logo-light.svg](linkedin/logo-light.svg) | [logo-dark.svg](linkedin/logo-dark.svg) | [logo-default.svg](linkedin/logo-default.svg) |
