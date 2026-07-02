@@ -12,6 +12,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | amazon-s3 | [logo-light.svg](amazon-s3/logo-light.svg) | [logo-dark.svg](amazon-s3/logo-dark.svg) | [logo-default.svg](amazon-s3/logo-default.svg) |
 | anthropic | [logo-light.svg](anthropic/logo-light.svg) | [logo-dark.svg](anthropic/logo-dark.svg) | [logo-default.svg](anthropic/logo-default.svg) |
 | aws-ec2 | [logo-light.svg](aws-ec2/logo-light.svg) | [logo-dark.svg](aws-ec2/logo-dark.svg) | [logo-default.svg](aws-ec2/logo-default.svg) |
+| bash | [logo-light.svg](bash/logo-light.svg) | [logo-dark.svg](bash/logo-dark.svg) | [logo-default.svg](bash/logo-default.svg) |
 | bootstrap | [logo-light.svg](bootstrap/logo-light.svg) | [logo-dark.svg](bootstrap/logo-dark.svg) | [logo-default.svg](bootstrap/logo-default.svg) |
 | bun | [logo-light.svg](bun/logo-light.svg) | [logo-dark.svg](bun/logo-dark.svg) | [logo-default.svg](bun/logo-default.svg) |
 | chatgpt | [logo-light.svg](chatgpt/logo-light.svg) | [logo-dark.svg](chatgpt/logo-dark.svg) | [logo-default.svg](chatgpt/logo-default.svg) |
@@ -58,11 +59,13 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | redis | [logo-light.svg](redis/logo-light.svg) | [logo-dark.svg](redis/logo-dark.svg) | [logo-default.svg](redis/logo-default.svg) |
 | socket-io | [logo-light.svg](socket-io/logo-light.svg) | [logo-dark.svg](socket-io/logo-dark.svg) | [logo-default.svg](socket-io/logo-default.svg) |
 | semantic-release | [logo-light.svg](semantic-release/logo-light.svg) | [logo-dark.svg](semantic-release/logo-dark.svg) | [logo-default.svg](semantic-release/logo-default.svg) |
+| tmux | [logo-light.svg](tmux/logo-light.svg) | [logo-dark.svg](tmux/logo-dark.svg) | [logo-default.svg](tmux/logo-default.svg) |
 | typescript | [logo-light.svg](typescript/logo-light.svg) | [logo-dark.svg](typescript/logo-dark.svg) | [logo-default.svg](typescript/logo-default.svg) |
 | ubuntu | [logo-light.svg](ubuntu/logo-light.svg) | [logo-dark.svg](ubuntu/logo-dark.svg) | [logo-default.svg](ubuntu/logo-default.svg) |
 | visual-studio | [logo-light.svg](visual-studio/logo-light.svg) | [logo-dark.svg](visual-studio/logo-dark.svg) | [logo-default.svg](visual-studio/logo-default.svg) |
 | visual-studio-code | [logo-light.svg](visual-studio-code/logo-light.svg) | [logo-dark.svg](visual-studio-code/logo-dark.svg) | [logo-default.svg](visual-studio-code/logo-default.svg) |
 | webstorm | [logo-light.svg](webstorm/logo-light.svg) | [logo-dark.svg](webstorm/logo-dark.svg) | [logo-default.svg](webstorm/logo-default.svg) |
+| zsh | [logo-light.svg](zsh/logo-light.svg) | [logo-dark.svg](zsh/logo-dark.svg) | [logo-default.svg](zsh/logo-default.svg) |
 
 ## Usage
 
