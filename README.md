@@ -80,6 +80,7 @@ Each entity lives in its own directory with three variants: `logo-light.svg` for
 | microsoft | [logo-light.svg](microsoft/logo-light.svg) | [logo-dark.svg](microsoft/logo-dark.svg) | [logo-default.svg](microsoft/logo-default.svg) |
 | microsoft-windows | [logo-light.svg](microsoft-windows/logo-light.svg) | [logo-dark.svg](microsoft-windows/logo-dark.svg) | [logo-default.svg](microsoft-windows/logo-default.svg) |
 | midjourney | [logo-light.svg](midjourney/logo-light.svg) | [logo-dark.svg](midjourney/logo-dark.svg) | [logo-default.svg](midjourney/logo-default.svg) |
+| minimax | [logo-light.svg](minimax/logo-light.svg) | [logo-dark.svg](minimax/logo-dark.svg) | [logo-default.svg](minimax/logo-default.svg) |
 | model-context-protocol | [logo-light.svg](model-context-protocol/logo-light.svg) | [logo-dark.svg](model-context-protocol/logo-dark.svg) | [logo-default.svg](model-context-protocol/logo-default.svg) |
 | mongodb | [logo-light.svg](mongodb/logo-light.svg) | [logo-dark.svg](mongodb/logo-dark.svg) | [logo-default.svg](mongodb/logo-default.svg) |
 | mongoose | [logo-light.svg](mongoose/logo-light.svg) | [logo-dark.svg](mongoose/logo-dark.svg) | [logo-default.svg](mongoose/logo-default.svg) |
